@@ -1,0 +1,78 @@
+.find-destination {
+    font-size: 30px;
+    font: Gilda Display;
+}
+.travel {
+    color: #25A59E;
+}
+.menu {
+    display: flex;
+    gap: 220px;
+}
+.the-world {
+    font-size: 40px;
+    text-align: center;
+}
+.travel-green {
+    color: #25A59E;
+}
+.mirror-lake {
+    margin-left: -5px;
+}
+.icon-map {
+    margin-top: -10px;
+}
+.jawa-t {
+    margin-top: -19px;
+    margin-left: 25px;
+}
+.hot-air-ballon {
+    margin-left: -5px;
+}
+.icon-map-air {
+    margin-top: -10px;
+}
+.turkey-cappa-d {
+    margin-top: -19px;
+    margin-left: 25px; 
+}
+.oeschinen-lake {
+    margin-left: -5px; 
+}
+.icon-map-oeschinen {
+    margin-top: -10px; 
+}
+.pasuruan-i {
+    margin-top: -19px;
+    margin-left: 25px;   
+}
+.rhine-falls {
+    margin-left: -5px;
+}
+.icon-map-rhine {
+    margin-top: -10px; 
+}
+.jawa-ten {
+    margin-top: -19px;
+    margin-left: 25px;   
+}
+.sunter-lake {
+    margin-left: -5px;
+}
+.icon-map-sunter {
+    margin-top: -10px;
+}
+.jawa-ten-gah {
+    margin-top: -19px;
+    margin-left: 25px; 
+}
+.negeri-di-atas {
+    margin-left: -5px;  
+}
+.icon-map-negeri {
+    margin-top: -10px;
+}
+.jawa-ten-gah-i {
+    margin-top: -19px;
+    margin-left: 25px; 
+}
