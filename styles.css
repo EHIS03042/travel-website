@@ -76,3 +76,50 @@
     margin-top: -19px;
     margin-left: 25px; 
 }
+.choose-us {
+    text-align: center;
+}
+.around-for-years {
+    margin-left: 10px;
+}
+.best-guide {
+    border: 3px solid #f2f2f2;
+    background-color: #FFFFFF;
+    padding: 20px;
+}
+.best-experience {
+    text-align: left;
+}
+.details-more {
+    margin-left: 140px;
+}
+.special-tickets {
+    border: 3px solid #f2f2f2;
+    padding: 20px;
+    margin-top: 10px;
+    background-color: #25A59E;
+}
+.details-more-white {
+    margin-left: 140px;
+}
+.travel-text {
+    color: #25A59E;
+}
+.shape-trapezium {
+    margin-top: 90px;
+    margin-bottom: -18px;
+    margin-left: 25px;
+}
+.map-readers {
+    margin-top: -270px;
+}
+.travel-below{
+    color: #25A59E;
+}
+.twitter {
+    margin-right: -50px;
+    margin-left: -95px;
+}
+.social-media {
+    margin-left: 50px;
+}
