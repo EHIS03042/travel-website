@@ -1,13 +1,42 @@
+:root {
+    --whitecolor: #FFFFFF;
+    background-color: whitesmoke;
+}
+header, .sec1, .sec4, .sec5 {
+    background-color: #FFFFFF;
+}
+.destination-text-container {
+    background-color: white;
+    margin-top: -25px;
+}
 .find-destination {
     font-size: 30px;
-    font: Gilda Display;
+    font-family: "Gilda Display";
+}
+#Gilda{
+    font-family: "Gilda Display";
+    font-weight: 400;
+}
+@font-face{
+    font-family: "Urbanist";
+    src: url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+}
+.content {
+    border: 4px solid #FFFFFF;
+    width: 350px;
+    background-color: #FFFFFF;
+    margin-bottom: 15px;
+}
+.mirror-lake, .hot-air-ballon, .oeschinen-lake, .rhine-falls, .sunter-lake, .negeri-di-atas {
+    transform: rotate(180deg);
 }
 .travel {
     color: #25A59E;
 }
-.menu {
+.menu-top {
     display: flex;
-    gap: 220px;
+    gap: 225px;
+    font-family: "Gilda Display";
 }
 .the-world {
     font-size: 40px;
@@ -34,27 +63,27 @@
 }
 .turkey-cappa-d {
     margin-top: -19px;
-    margin-left: 25px; 
+    margin-left: 25px;
 }
 .oeschinen-lake {
-    margin-left: -5px; 
+    margin-left: -5px;
 }
 .icon-map-oeschinen {
-    margin-top: -10px; 
+    margin-top: -10px;
 }
 .pasuruan-i {
     margin-top: -19px;
-    margin-left: 25px;   
+    margin-left: 25px;
 }
 .rhine-falls {
     margin-left: -5px;
 }
 .icon-map-rhine {
-    margin-top: -10px; 
+    margin-top: -10px;
 }
 .jawa-ten {
     margin-top: -19px;
-    margin-left: 25px;   
+    margin-left: 25px;
 }
 .sunter-lake {
     margin-left: -5px;
@@ -64,17 +93,17 @@
 }
 .jawa-ten-gah {
     margin-top: -19px;
-    margin-left: 25px; 
+    margin-left: 25px;
 }
 .negeri-di-atas {
-    margin-left: -5px;  
+    margin-left: -5px;
 }
 .icon-map-negeri {
     margin-top: -10px;
 }
 .jawa-ten-gah-i {
     margin-top: -19px;
-    margin-left: 25px; 
+    margin-left: 25px;
 }
 .choose-us {
     text-align: center;
@@ -83,7 +112,7 @@
     margin-left: 10px;
 }
 .best-guide {
-    border: 3px solid #f2f2f2;
+    border: 3px solid #F2F2F2;
     background-color: #FFFFFF;
     padding: 20px;
 }
@@ -94,10 +123,16 @@
     margin-left: 140px;
 }
 .special-tickets {
-    border: 3px solid #f2f2f2;
+    border: 3px solid #F2F2F2;
     padding: 20px;
     margin-top: 10px;
     background-color: #25A59E;
+}
+.ready-always {
+    border: 3px solid #F2F2F2;
+    background-color: #FFFFFF;
+    padding: 20px;
+    margin-top: 10px;
 }
 .details-more-white {
     margin-left: 140px;
@@ -105,13 +140,20 @@
 .travel-text {
     color: #25A59E;
 }
+.travel-green-i {
+    color: #25A59E;
+}
 .shape-trapezium {
-    margin-top: 90px;
-    margin-bottom: -18px;
+    margin-top: 110px;
+    margin-bottom: -47px;
     margin-left: 25px;
 }
 .map-readers {
-    margin-top: -270px;
+    margin-top: -199px;
+    margin-left: -10px;
+}
+.entire-trip {
+    text-align: center;
 }
 .travel-below{
     color: #25A59E;
@@ -122,4 +164,28 @@
 }
 .social-media {
     margin-left: 50px;
+}
+.ellipse_168 {
+    margin-left: -8px;
+    margin-top: -160px;
+    margin-bottom: -18px;
+    width: 318px;
+}
+.blogger-couple {
+    margin-top: -192px;
+    margin-left: -35px;
+    margin-bottom: 10px;
+    width: 360px;
+}
+.blurry {
+    margin-top: -170px;
+    margin-left: -7px;
+}
+.footer-menu {
+    display: flex;
+    gap: 25px;
+    font-family: "Urbanist";
+}
+.travel-below {
+    font-family: "Gilda Display";
 }
