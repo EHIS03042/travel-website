@@ -66,3 +66,40 @@ This project is a responsive mobile-view travel landing page; designed to advert
   - Destinations
   - Guide
   - Contact Us
+
+## Styling and Design
+The  HTML page is styled using CSS with classes assigned for selector specificity:
+- Font families:
+  - "Gilda Display" for headings and key text.
+  - "Urbanist" for body text.
+- Colors:
+  - Primary accent color: color: #25A59E; (teal).
+  - Background: White: #FFFFFF and Soft Gray Shades #F2F2F2;
+- Responsive Design:
+  - Ensures an optimized experience for hand-held mobile device users.
+  - Display layout adapts to varying screen resolutions (720x1280 to 1440x3200 pixels).
+
+## How to Run
+1. Clone the created repository to your local machine.
+2. Open the `index.html` file in any modern web browser.
+3. Ensure the `styles.css` file and the `assets` folder are in the same directory as `index.html` to render the styles and images correctly.
+
+## Folder Structure
+- **index.html:** This file contains the structural framework of the webpage.
+- **styles.css:** Includes the CSS Syntax(styling rules:selector and declaration) for the webpage.
+- **assets/**: File contains all images used, including:
+  - Destination images.
+  - Pictures and background shapes.
+  - Icons (social media, location or map and arrows).
+  - CTA Primer image.
+
+## Presentation link
+[([Presentation link](https://www.loom.com/share/a94c59ffd6724640955b092903f101d9?sid=c7469e2e-0125-4b6f-b2f4-d1571fb6c4bf)]
+
+## Author
+Name: [Tolulope McSmith - EHIS03042]
+Contact: [tolulope.mcsmith@gmail.com]
+ [[Github Profile](https://github.com/EHIS03042)]
+
+## License
+ This project is published under the MIT License.This license grants users the rights to use, copy, modify, merge, publish, distribute and sublicense the licensed IP.It however requires that the original copyright notice and license text must be included in all copies or substantial portions of the project in accordance with the terms and conditions stipulated in the license.
