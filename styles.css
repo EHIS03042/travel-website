@@ -189,3 +189,6 @@ header, .sec1, .sec4, .sec5 {
 .travel-below {
     font-family: "Gilda Display";
 }
+@media(min-width: 1024px) {
+    
+}

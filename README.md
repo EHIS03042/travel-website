@@ -94,7 +94,7 @@ The  HTML page is styled using CSS with classes assigned for selector specificit
   - CTA Primer image.
 
 ## Presentation link
-[[(Presentation Link](https://www.loom.com/share/abefe99718ec49618c7afd26fb46b75d?sid=c4337770-13ac-41b5-8252-11d504dc1dc7)]
+[[Presentation Link](https://www.loom.com/share/abefe99718ec49618c7afd26fb46b75d?sid=c4337770-13ac-41b5-8252-11d504dc1dc7)]
 
 ## Author
 Name: [Tolulope McSmith - EHIS03042]
