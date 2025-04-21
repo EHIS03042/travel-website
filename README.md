@@ -16,7 +16,7 @@
 - Author Details
 - License
 ## Project Overview
-This project is a responsive mobile-view travel landing page; designed to advertise and market exotic and exciting holiday destinations and the unique packages available to prospective and existing clients.The compelling layout is intentionally structured to enhance the overall user experience. The information and pictorials are ordered to maximize conversion opportunities at every click. The page is divided into five(5) main sections including a footer.
+This project is a responsive mobile-view travel landing page; designed to advertise and market exotic and exciting holiday destinations and the unique packages available to prospective and existing clients.The compelling layout is intentionally structured to enhance the overall user experience across various mobile screen resolutions. The information and pictorials are ordered to maximize conversion opportunities at every click. The page is divided into five(5) main sections including a footer.d
 ## Live Demo
 - [[live_demo](https://travel-website-li3g.onrender.com)]
 ## Project Features
